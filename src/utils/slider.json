@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Olivia",
+    "price": "47,043",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./slid1.jpg"
+  },
+  {
+    "name": "Emma",
+    "price": "66,353",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./slid2.jpg"
+  },
+  {
+    "name": "Amelia",
+    "price": "35,853",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./slid3.jpg"
+  },
+  {
+    "name": "Mia",
+    "price": "47,043",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./slid4.jpg"
+  },
+  {
+    "name": "Flora",
+    "price": "66,353",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./slid5.jpg"
+  },
+  {
+    "name": "Elia",
+    "price": "35,853",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "./r3.png"
+  }
+]
